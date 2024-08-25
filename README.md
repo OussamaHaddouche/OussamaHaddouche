@@ -8,7 +8,7 @@ Languages: JavaScript, TypeScript
 Frameworks & Libraries: React, Next.js, Node.js
 Tools & Platforms: GitHub, Docker, Netlify
 
-Key Projects 📚
+Key Projects 📚  
 Crown Clothing: An e-commerce application built with React and Firebase.  
 Nasa Project: A full-stack application developed with React and Express.  
 You can view these here.
