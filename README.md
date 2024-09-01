@@ -1,7 +1,7 @@
 👋 Hi, I'm Oussama Haddouche! I’m a software engineer with a passion for JavaScript, dedicated to harnessing technology to create impactful and high-quality products.
 
 ## About Me
-With 5+ years of experience as a front-end developer in the tech world, I blend discipline and technical expertise to deliver software solutions that address real-world challenges. My passion lies in crafting intuitive and effective user experiences through code.
+With 5+ years of experience as a javascript developer in the tech world, I blend discipline and technical expertise to deliver software solutions that address real-world challenges. My passion lies in crafting intuitive and effective user experiences through code.
 
 ## Technical Skills 🛠️
 Languages: JavaScript, TypeScript
