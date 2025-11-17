@@ -10,8 +10,7 @@ Tools & Platforms: GitHub, Docker, Netlify
 
 Key Projects 📚  
 Crown Clothing: An e-commerce application built with React and Firebase.  
-Nasa Project: A full-stack application developed with React and Express.  
-You can view these here.
+Fungi finder: A vanilla html + css app.  
 
 ## Professional Goals 🚀
 Career Development: I am focused on advancing my career in software development, particularly in roles that leverage my technical skills to build impactful tech solutions.
